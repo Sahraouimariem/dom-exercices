@@ -1,0 +1,17 @@
+form{
+    width: 40%;
+    padding: 10%;
+    border: 1px solid;
+    border-radius: 10%;
+    background: linear-gradient(30deg,yellow,green);
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+input{
+    height: 50px;
+}
+button{
+    height: 50px;
+   
+}
